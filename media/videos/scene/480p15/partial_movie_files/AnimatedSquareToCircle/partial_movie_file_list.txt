@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Gallium Wang/Desktop/project/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/4266129954_476749358_223132457.mp4'
-file 'file:C:/Users/Gallium Wang/Desktop/project/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/1442284246_4228466784_247722528.mp4'
-file 'file:C:/Users/Gallium Wang/Desktop/project/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/1442284246_17841066_247722528.mp4'
-file 'file:C:/Users/Gallium Wang/Desktop/project/media/videos/scene/480p15/partial_movie_files/AnimatedSquareToCircle/1442284246_1605643416_3247135320.mp4'
